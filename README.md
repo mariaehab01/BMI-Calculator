@@ -17,4 +17,4 @@ An iOS app that calculates Body Mass Index (BMI) based on user height and weight
 
 | Input Screen | Result Screen |
 |--------------|------------------------|
-| ![Input](Screenshots/input.png) | ![Result](Screenshots/result.png) |
+| ![Input](Screenshots/Input.png) | ![Result](Screenshots/Result.png) |
